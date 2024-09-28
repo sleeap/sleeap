@@ -1,18 +1,18 @@
 
 <h2 align="left">Olá! Eu sou o Lessandro Figueiredo</h2>
 <h3 align="left">👩‍💻 No momento estou no inicio da minha jornada na programação </h3>
-###
+
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sleeap&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sleeap&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/a0/ed/a7/a0eda78d4a37ab136af222f6fc63da24.gif"  />
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -30,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-###
+
 
 <div align="left">
   <a href="lessandro.fleite@gmail.com" target="_blank">
@@ -44,10 +44,10 @@
   </a>
 </div>
 
-###
+
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/sleeap/sleeap/output/snake.svg" alt="Snake animation" />
 
-###
+
