@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sleeap/sleeap/output/snake.svg" alt="Snake animation" />
+<img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yagolima1/yagolima1/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
 
 ###
