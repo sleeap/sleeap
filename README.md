@@ -1,5 +1,6 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
+<h2 align="left">Olá! Eu sou o Lessandro Figueiredo</h2>
+<h3 align="left">👩‍💻 No momento estou no inicio da minha jornada na programação </h3>
 ###
 
 <div align="center">
